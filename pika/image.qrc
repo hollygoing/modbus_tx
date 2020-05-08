@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/chezi.png</file>
+        <file>image/icon.png</file>
+        <file>image/lun.png</file>
+        <file>image/lunzi.png</file>
+        <file>C:/Users/houwenhao/Desktop/数据集/图片/cat.jpg</file>
+    </qresource>
+</RCC>
